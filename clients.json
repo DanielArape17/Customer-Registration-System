@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Ana",
+        "last_name": "G\u00f3mez",
+        "id": "V-15890123",
+        "email": "ana.gomez@ejemplo.com",
+        "phone": "+584141234567"
+    },
+    {
+        "name": "Juan",
+        "last_name": "Rodr\u00edguez",
+        "id": "E-20567890",
+        "email": "c.rodriguez@mail.net",
+        "phone": "+584269876543"
+    },
+    {
+        "name": "Mar\u00eda",
+        "last_name": "L\u00f3pez",
+        "id": "V-10234567",
+        "email": "mlopez@dominio.org",
+        "phone": "+584125550011"
+    },
+    {
+        "name": "David",
+        "last_name": "Ocampo",
+        "id": "V-32486597",
+        "email": "prueba@gmail.com",
+        "phone": "+584124567832"
+    },
+    {
+        "name": "Davida",
+        "last_name": "Arape",
+        "id": "V-32864213",
+        "email": "preuba@gmail.com",
+        "phone": "+584125553794"
+    },
+    {
+        "name": "Daniel",
+        "last_name": "Arape",
+        "id": "V-30800020",
+        "email": "d@gmail.com",
+        "phone": "+584121494288"
+    }
+]
